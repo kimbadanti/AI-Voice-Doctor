@@ -1,0 +1,7 @@
+# Example .gitignore content:
+.env
+__pycache__/
+*.mp3
+*.wav
+.DS_Store
+voicebot/
