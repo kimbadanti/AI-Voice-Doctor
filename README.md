@@ -51,3 +51,7 @@ Follow the steps below to run the application locally.
 ### Step 1: Activate the Virtual Environment
 ```bash
 activate voicebot
+
+### Step 2: Start the Application
+```bash
+python gradio_app.py
