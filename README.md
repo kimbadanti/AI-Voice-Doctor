@@ -101,11 +101,3 @@ It does not provide medical diagnoses and should not replace professional medica
 
 ---
 
-## Author
-
-Kimbadanti Shaw
-Final-year Engineering Student
-Focused on AI-driven systems and real-world problem solving
-
-
-```
