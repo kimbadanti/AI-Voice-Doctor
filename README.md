@@ -78,11 +78,10 @@ Open that URL in your browser to interact with the AI Medical Voice Bot.
 
 ## Demo Video
 
-A demo video showing the complete workflow of the project is available at:
+A demo video showing the complete workflow of the project is available here:
 
-```
-[Add your demo video link here]
-```
+[Watch Demo Video on YouTube](https://youtu.be/qnhgeWGTdyw)
+
 
 
 ## Use Cases
