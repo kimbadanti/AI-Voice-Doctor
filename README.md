@@ -1,10 +1,3 @@
-Perfect 👍
-Below is **ONE complete, clean, VS Code–ready `README.md` file**.
-You can **directly copy–paste this entire content** into `README.md` in VS Code.
-
----
-
-````md
 # AI Medical Voice Bot – First Aid Assistant
 
 An AI-powered medical voice assistant that provides **first-aid guidance using image and voice inputs**.  
